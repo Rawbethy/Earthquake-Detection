@@ -1,0 +1,3 @@
+scikit-learn-extra
+basemap
+haversine==2.7.0
